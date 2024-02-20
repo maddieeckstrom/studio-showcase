@@ -1,0 +1,1 @@
+#root{height:100vh}.logo{display:flex;justify-content:center;align-items:center;height:100vh}img{width:auto;max-height:100%}@media screen and (max-width: 700px){img{max-width:100%;height:auto}}
