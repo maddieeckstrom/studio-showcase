@@ -1,12 +1,12 @@
 {
-  "name": "studio-showcase",
+  "name": "maddieeckstrom-github-io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://workspace.studioshowcase.org",
+  "homepage": "https://maddieeckstrom.github.io/studio-showcase",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages master -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",

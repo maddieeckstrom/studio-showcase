@@ -1,5 +1,5 @@
-import './index.css'
-import ssLogo from "./assets/images/ssLogo.png"
+import './index.css';
+import ssLogo from "./assets/images/ssLogo.png";
 
 export default function App() {
   return (
