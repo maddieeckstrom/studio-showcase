@@ -1,5 +1,5 @@
 import '../css/index.css';
-import ssLogo from "./assets/images/ssLogo.png";
+import ssLogo from "../assets/images/ssLogo.png";
 
 export default function Home() {
   return (
