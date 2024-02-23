@@ -1,7 +1,7 @@
 import '../css/index.css';
 import ssLogo from "./assets/images/ssLogo.png";
 
-export default function App() {
+export default function Home() {
   return (
     <section>
       <div className="logo">
